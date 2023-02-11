@@ -11,7 +11,10 @@ static void sub()
 int a=25;
 int b=15;
 int c=a-b;
+class Sample
+{
 public static void main(String[] args)
 {
-add();
+Sub.add();
+Sub.sub();
 }}
